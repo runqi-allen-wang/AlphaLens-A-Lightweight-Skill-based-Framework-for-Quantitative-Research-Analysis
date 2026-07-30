@@ -4,8 +4,7 @@
 
 ![AlphaLens Poster](assets/alphalens_poster.png)
 
-------------------------------------------------------------------------
-
+[中文版README](https://github.com/runqi-allen-wang/AlphaLens/blob/main/README_CN.md) | English
 ## Overview
 
 **AlphaLens** is a quantitative research intelligence framework designed
