@@ -1,34 +1,5 @@
-# AlphaLens Skill
-
-> **AlphaLens：量化研究智能解析与 Alpha 提炼框架**
->
-> 在海量金融研究报告中，真正有价值的不是简单记录作者写了什么，而是找到：
->
-> -   为什么这个方法有效；
-> -   它利用了什么未被充分定价的信息；
-> -   它创造的是收益 Alpha、风险 Alpha、研究效率 Alpha，还是组织能力
->     Alpha。
->
-> AlphaLens 的目标，是模拟资深量化研究员的研究过程：
->
-> **阅读研报 → 判断研究类型 → 定位核心贡献 → 提炼价值来源 → 分析有效边界
-> → 沉淀可复用知识。**
->
-> 它不是简单的研报摘要工具，而是一套面向量化研究的知识解析与 Alpha
-> 挖掘系统。
->
-> 核心原则：
->
-> 1.  先理解研究对象，再选择分析模板；
-> 2.  先定位核心价值，再深入技术细节；
-> 3.  不局限于传统选股 Alpha，而关注 Prediction、Risk
->     Management、Research Process、Information
->     Processing、Infrastructure 等多维 Alpha；
-> 4.  将每篇研报转化为可审计、可复现、可迁移的研究资产。
-
+# [AlphaLens Skill](https://github.com/runqi-allen-wang/AlphaLens-A-Lightweight-Skill-based-Framework-for-Quantitative-Research-Analysis)
 ------------------------------------------------------------------------
-
-# 金工研报项目 Skill
 
 ## 一、总体任务
 
