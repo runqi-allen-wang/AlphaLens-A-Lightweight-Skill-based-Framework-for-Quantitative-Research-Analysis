@@ -37,33 +37,16 @@ AlphaLens asks:
 
 The framework studies multiple forms of Alpha:
 
-  -----------------------------------------------------------------------
-  Alpha Type                          Description
-  ----------------------------------- -----------------------------------
-  Prediction Alpha                    Improving predictive ability of
-                                      financial outcomes
-
-  Risk Management Alpha               Improving portfolio robustness and
-                                      downside control
-
-  Research Process Alpha              Increasing research efficiency and
-                                      iteration capability
-
-  Information Processing Alpha        Extracting signals from complex
-                                      information
-
-  Data Quality Alpha                  Leveraging better data construction
-                                      and validation
-
-  Infrastructure Alpha                Improving research scalability and
-                                      reproducibility
-
-  Decision Consistency Alpha          Reducing subjective research noise
-
-  Organizational Alpha                Accumulating and transferring
-                                      research knowledge
-  -----------------------------------------------------------------------
-
+| Alpha Type | Description |
+|------------|-------------|
+| Prediction Alpha | Improving predictive ability of financial outcomes |
+| Risk Management Alpha | Improving portfolio robustness and downside control |
+| Research Process Alpha | Increasing research efficiency and iteration capability |
+| Information Processing Alpha | Extracting signals from complex information |
+| Data Quality Alpha | Leveraging better data construction and validation |
+| Infrastructure Alpha | Improving research scalability and reproducibility |
+| Decision Consistency Alpha | Reducing subjective research noise |
+| Organizational Alpha | Accumulating and transferring research knowledge |
 ------------------------------------------------------------------------
 
 ## Core Workflow
