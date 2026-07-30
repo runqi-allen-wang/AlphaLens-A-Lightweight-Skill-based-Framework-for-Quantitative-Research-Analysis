@@ -116,9 +116,9 @@ AlphaLens 重点关注：
 
 本仓库包含 AlphaLens 框架定义与文档。
 
-由 AlphaLens 生成的研究笔记单独维护：
+由 AlphaLens 生成的研究笔记会在[这里](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes)单独维护。
 
-https://github.com/runqi-allen-wang/Quant-Research-Report-Notes
+
 
 ## 项目结构
 
