@@ -1,7 +1,5 @@
 # AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis
-
-![AlphaLens Poster](assets/alphalens_poster.png)
-
+![AlphaLens Poster](assets/Poster.png)
 [中文版 README](README_CN.md) \| English
 
 ## Overview
@@ -50,20 +48,7 @@ The framework focuses on different forms of Alpha:
 | Organizational Alpha | Accumulating and transferring research knowledge |
 
 ## Core Workflow
-
-    Research Report
-            ↓
-    Research Type Identification
-            ↓
-    Template Selection
-            ↓
-    Core Contribution Analysis
-            ↓
-    Alpha Mechanism Extraction
-            ↓
-    Boundary and Failure Analysis
-            ↓
-    Reusable Research Knowledge
+![AlphaLens Workflow](assets/Workflow.png)
     
 ## Key Principles
 
