@@ -1,31 +1,39 @@
-# AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis
+# AlphaLens
+
+## A Lightweight Skill-based Framework for Quantitative Research Analysis
 
 ![AlphaLens Poster](assets/alphalens_poster.png)
 
-[中文版README](https://github.com/runqi-allen-wang/AlphaLens/blob/main/README_CN.md) | English
+[中文版 README](README_CN.md) \| English
+
+------------------------------------------------------------------------
+
 ## Overview
 
-**AlphaLens** is a quantitative research intelligence framework designed
-to analyze financial research reports from the perspective of a senior
+**AlphaLens** is a lightweight Skill-based framework designed to analyze
+quantitative research reports from the perspective of a senior
 quantitative researcher.
 
-It is not a document summarization tool. AlphaLens aims to identify the
-underlying research mechanism:
+Instead of simply summarizing research documents, AlphaLens encodes the
+methodology of experienced researchers into a reusable analytical
+workflow:
 
--   What problem does the research solve?
--   Why does the proposed methodology work?
--   Where does the value creation come from?
--   What are the assumptions and limitations?
--   How can the research insight be reproduced and extended?
+-   Identify the research object and category;
+-   Select an appropriate analysis template;
+-   Locate the core methodological contribution;
+-   Extract the underlying Alpha mechanism;
+-   Evaluate assumptions, limitations, and failure conditions;
+-   Convert research insights into structured and reusable knowledge
+    assets.
 
-AlphaLens transforms scattered financial research into structured,
-reusable, and auditable research knowledge.
+AlphaLens aims to transform financial research from fragmented documents
+into interpretable, auditable, and transferable research knowledge.
 
 ------------------------------------------------------------------------
 
 ## Research Philosophy
 
-A conventional summary answers:
+A conventional summary asks:
 
 > What does the report say?
 
@@ -33,42 +41,53 @@ AlphaLens asks:
 
 > Why does this research create value?
 
-The framework studies multiple forms of Alpha:
+The framework focuses on different forms of Alpha:
 
-| Alpha Type | Description |
-|------------|-------------|
-| Prediction Alpha | Improving predictive ability of financial outcomes |
-| Risk Management Alpha | Improving portfolio robustness and downside control |
-| Research Process Alpha | Increasing research efficiency and iteration capability |
-| Information Processing Alpha | Extracting signals from complex information |
-| Data Quality Alpha | Leveraging better data construction and validation |
-| Infrastructure Alpha | Improving research scalability and reproducibility |
-| Decision Consistency Alpha | Reducing subjective research noise |
-| Organizational Alpha | Accumulating and transferring research knowledge |
+  -----------------------------------------------------------------------
+  Alpha Type                          Description
+  ----------------------------------- -----------------------------------
+  Prediction Alpha                    Improving predictive ability of financial outcomes
+
+  Risk Management Alpha               Improving robustness and downside control
+
+  Research Process Alpha              Improving research efficiency and iteration capability
+
+  Information Processing Alpha        Extracting valuable signals from complex information
+
+  Data Quality Alpha                  Improving research reliability through better data construction
+
+  Infrastructure Alpha                Enhancing scalability and reproducibility of research systems
+
+  Decision Consistency Alpha          Reducing subjective research bias
+
+  Organizational Alpha                Accumulating and transferring  research knowledge
+  -----------------------------------------------------------------------
+
+------------------------------------------------------------------------
 
 ## Core Workflow
 
-    Financial Research Report
+    Research Report
             ↓
     Research Type Identification
             ↓
-    Core Contribution Localization
+    Template Selection
             ↓
-    Methodology and Evidence Analysis
+    Core Contribution Analysis
             ↓
     Alpha Mechanism Extraction
             ↓
-    Scope and Failure Analysis
+    Boundary and Failure Analysis
             ↓
     Reusable Research Knowledge
 
+------------------------------------------------------------------------
 
-## Research Principles
+## Key Principles
 
-### 1. Research-Type-Aware Routing
+### 1. Skill-based Research Routing
 
-Different financial research problems require different analytical
-perspectives.
+Different research problems require different analytical frameworks.
 
 AlphaLens first identifies:
 
@@ -84,45 +103,43 @@ AlphaLens first identifies:
 
 Each report follows:
 
--   One primary template
--   At most one auxiliary template
+-   One primary research template;
+-   At most one auxiliary template.
 
-This avoids research drift and maintains analytical focus.
+This prevents analysis drift and preserves research focus.
 
 ### 3. Mechanism over Description
 
-AlphaLens focuses on:
+AlphaLens emphasizes:
 
--   Information source
--   Economic mechanism
--   Market inefficiency
--   Implementation boundary
--   Failure conditions
+-   Information source;
+-   Economic mechanism;
+-   Market inefficiency;
+-   Implementation boundary;
+-   Failure conditions.
 
-rather than only reporting empirical performance.
+It focuses on understanding why a method works rather than only
+reporting empirical results.
 
 ### 4. Reproducible Knowledge Engineering
 
 Outputs are designed for:
 
--   Markdown-based documentation
--   Mathematical clarity
--   Research traceability
--   Long-term knowledge accumulation
+-   Markdown-based documentation;
+-   Research traceability;
+-   Mathematical clarity;
+-   Long-term knowledge accumulation.
 
 ------------------------------------------------------------------------
 
 ## Repository
 
-This repository contains the AlphaLens framework definition and
-documentation.
-
-Research notes generated by AlphaLens are maintained separately [here](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes).
-
+This repository contains the AlphaLens framework definition and Skill
+specification. Research notes generated using AlphaLens are maintained [here](https://github.com/runqi-allen-wang/Quant-Research-Report-Notes).
 
 
 ## Project Structure
-
+```
     AlphaLens/
 
     ├── README.md
@@ -130,13 +147,12 @@ Research notes generated by AlphaLens are maintained separately [here](https://g
     ├── SKILL.md
     └── assets/
         └── alphalens_poster.png
-
-------------------------------------------------------------------------
+```
 
 ## Citation
 
-    AlphaLens:
-    A Quantitative Research Intelligence Framework for Extracting Alpha from Financial Research.
+    AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis.
+
 
 ## License
 
