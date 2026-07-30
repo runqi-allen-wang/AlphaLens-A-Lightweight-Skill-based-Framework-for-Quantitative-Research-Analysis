@@ -3,7 +3,7 @@
 
 ![AlphaLens 海报](assets/alphalens_poster.png)
 
-[中文版 README](README_CN.md) | English
+中文版 | [English](README.md)
 
 ## 概述
 
