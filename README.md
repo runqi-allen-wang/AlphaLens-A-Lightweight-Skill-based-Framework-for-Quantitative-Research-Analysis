@@ -38,25 +38,16 @@ AlphaLens asks:
 
 The framework focuses on different forms of Alpha:
 
-  -----------------------------------------------------------------------
-  Alpha Type                          Description
-  ----------------------------------- -----------------------------------
-  Prediction Alpha                    Improving predictive ability of financial outcomes
-
-  Risk Management Alpha               Improving robustness and downside control
-
-  Research Process Alpha              Improving research efficiency and iteration capability
-
-  Information Processing Alpha        Extracting valuable signals from complex information
-
-  Data Quality Alpha                  Improving research reliability through better data construction
-
-  Infrastructure Alpha                Enhancing scalability and reproducibility of research systems
-
-  Decision Consistency Alpha          Reducing subjective research bias
-
-  Organizational Alpha                Accumulating and transferring  research knowledge
-  -----------------------------------------------------------------------
+ | Alpha Type | Description |
+|------------|-------------|
+| Prediction Alpha | Improving predictive ability of financial outcomes |
+| Risk Management Alpha | Improving robustness and downside control |
+| Research Process Alpha | Improving research efficiency and iteration capability |
+| Information Processing Alpha | Extracting valuable signals from complex information |
+| Data Quality Alpha | Improving research reliability through better data construction |
+| Infrastructure Alpha | Enhancing scalability and reproducibility of research systems |
+| Decision Consistency Alpha | Reducing subjective research bias |
+| Organizational Alpha | Accumulating and transferring research knowledge |
 
 ## Core Workflow
 
