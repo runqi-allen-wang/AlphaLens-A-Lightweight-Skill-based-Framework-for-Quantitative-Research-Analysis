@@ -1,12 +1,8 @@
-# AlphaLens
-
-## A Lightweight Skill-based Framework for Quantitative Research Analysis
+# AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis
 
 ![AlphaLens Poster](assets/alphalens_poster.png)
 
 [中文版 README](README_CN.md) \| English
-
-------------------------------------------------------------------------
 
 ## Overview
 
@@ -29,7 +25,6 @@ workflow:
 AlphaLens aims to transform financial research from fragmented documents
 into interpretable, auditable, and transferable research knowledge.
 
-------------------------------------------------------------------------
 
 ## Research Philosophy
 
@@ -63,8 +58,6 @@ The framework focuses on different forms of Alpha:
   Organizational Alpha                Accumulating and transferring  research knowledge
   -----------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
 ## Core Workflow
 
     Research Report
@@ -80,9 +73,7 @@ The framework focuses on different forms of Alpha:
     Boundary and Failure Analysis
             ↓
     Reusable Research Knowledge
-
-------------------------------------------------------------------------
-
+    
 ## Key Principles
 
 ### 1. Skill-based Research Routing
