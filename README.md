@@ -1,6 +1,4 @@
-# AlphaLens
-
-## A Quantitative Research Intelligence Framework for Extracting Alpha from Financial Research
+# AlphaLens: A Lightweight Skill-based Framework for Quantitative Research Analysis
 
 ![AlphaLens Poster](assets/alphalens_poster.png)
 
