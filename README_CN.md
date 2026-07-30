@@ -1,7 +1,7 @@
 
 # AlphaLens：一个轻量级的基于技能的量化研究分析框架
 
-![AlphaLens 海报](assets/alphalens_poster.png)
+![AlphaLens 海报](assets/Poster.png)
 
 中文版 | [English README](README.md)
 
@@ -44,20 +44,7 @@ AlphaLens 则会问：
 | 组织型 Alpha | 积累和传递研究知识 |
 
 ## 核心工作流
-
-    研究报告
-        ↓
-    研究类型识别
-        ↓
-    模板选择
-        ↓
-    核心贡献分析
-        ↓
-    Alpha 机制提取
-        ↓
-    边界与失效分析
-        ↓
-    可复用研究知识
+![AlphaLens 工作流](assets/Workflow.png)
 
 ## 关键原则
 
